@@ -1,4 +1,4 @@
-export default function UserCliente(){
+export default function ClientScreen(){
     return(
         <div>
             
