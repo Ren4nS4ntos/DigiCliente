@@ -1,4 +1,4 @@
-export default function TamerScreen(){
+export default function TelaGeral(){
     return(
         <div>
             
